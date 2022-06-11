@@ -1,0 +1,11 @@
+D:\Winform\QuanLyKiTucXa\bin\Debug\QuanLyKiTucXa.exe.config
+D:\Winform\QuanLyKiTucXa\bin\Debug\QuanLyKiTucXa.exe
+D:\Winform\QuanLyKiTucXa\bin\Debug\QuanLyKiTucXa.pdb
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.csproj.AssemblyReference.cache
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.csproj.SuggestedBindingRedirects.cache
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.GUI.FrmMenuChinh.resources
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.Properties.Resources.resources
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.csproj.GenerateResource.cache
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.exe
+D:\Winform\QuanLyKiTucXa\obj\Debug\QuanLyKiTucXa.pdb
